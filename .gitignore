@@ -1,0 +1,14 @@
+*.pyc
+*~
+*.log
+.settings/
+.idea/
+data/
+build/
+dist/
+src/
+*.egg-info/
+env.cmd
+*.cmd
+env/
+_build/
